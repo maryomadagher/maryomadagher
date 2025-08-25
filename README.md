@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there, I'm Mariam 👋  
 
-<!--
-**maryomadagher/maryomadagher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌸 Passionate **UI/UX Designer** | Beginner in **Machine Learning & Robotics**  
+✨ I love creating meaningful, user-friendly digital products and exploring how technology can improve everyday life.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎨 Skills
+- **Design Tools**: Figma, Adobe XD, Photoshop, Illustrator  
+- **UI/UX**: Wireframing, Prototyping, User Research, Accessibility Design  
+- **Programming**: Python , C++ basics  
+- **Soft Skills**: Communication, Teamwork, Problem-Solving, Research  
+
+---
+
+## 📜 Certificates
+- UI/UX Design Foundations (Google / Coursera)  
+- Adobe Photoshop & Illustrator Basics  
+- SQL & Databases (Mahara-Tech)  
+- Intro to Machine Learning & AI  
+- Robotics & Arduino  
+
+---
+
+## 📫 Let's Connect
+- 🌍 [Portfolio](#)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/mariam-dagher-22a91128b/)  
+- 🎨 [Behance](https://www.behance.net/mariamdagher1)  
+- ✉️ daghermariam23@gmail.com  
+
+✨ *Always open to exciting design and tech opportunities!*  
+
