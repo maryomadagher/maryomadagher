@@ -16,7 +16,7 @@
 ## 📜 Certificates
 - UI/UX Design Foundations (Google / Coursera)  
 - Adobe Photoshop & Illustrator Basics  
-- SQL & Databases (Mahara-Tech)  
+- SQL & Databases  
 - Intro to Machine Learning & AI  
 - Robotics & Arduino  
 
